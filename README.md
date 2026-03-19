@@ -38,7 +38,36 @@ Insight: West and East regions contribute the highest revenue.
 
 ![Dashboard](dashboard.png)
 
----
+## 4️ Superstore Sales Analysis (SQL Project)
+
+Overview
+Analyzed retail sales dataset using SQL to extract key business insights including total sales, profit, customer performance, and category trends.
+
+Tools Used
+	•	SQL (SQLite)
+	•	Visual Studio Code
+
+Key Insights
+	•	Technology is the top-performing category (~836K sales)
+	•	Top customer generated over 25K in sales
+	•	Regional performance varies significantly
+	•	High-value customers drive major revenue
+
+Project Files
+	•	queries.sql → SQL queries
+	•	total_sales.png → Total sales result
+	•	total_profit.png → Total profit
+	•	sales_by_region.png → Region analysis
+	•	top_customers.png → Top 5 customers
+	•	category_analysis.png → Category performance
+
+  **Sample Output**
+
+  Below are sample outputs generated using SQL queries:
+
+![Top Customers](top_customers.png)
+![Sales by Region](sales_by_region.png)
+![Category Analysis](category_analysis.png)
 
 ##  Dataset
 - Superstore dataset used for analysis
