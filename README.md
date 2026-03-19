@@ -1,10 +1,12 @@
-#  Data Analytics Projects
+# Data Analytics Portfolio
+### End-to-End Projects in Python, SQL, Machine Learning & Power BI
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-green)
 
-This repository showcases end-to-end data analytics projects including data analysis, visualization, machine learning, SQL, and dashboarding using real-world datasets.
+This repository showcases end-to-end data analytics projects including data analysis, visualization, machine learning, SQL, and dashboarding using real-world datasets. 
+Focused on solving real-world business problems using data-driven insights and analytics.
 
 ---
 
@@ -38,41 +40,42 @@ This repository showcases end-to-end data analytics projects including data anal
 
 **Result:** Built an interactive dashboard enabling quick insights into regional and category performance.
 
-Insight: West and East regions contribute the highest revenue.
+**Insight**: West and East regions contribute the highest revenue.
 
 ![Dashboard](dashboard.png)
 
 ## 4. Superstore Sales Analysis (SQL Project)
-**Overview**
+
+### Overview
 Analyzed retail sales dataset using SQL to extract key business insights including total sales, profit, customer performance, and category trends.
 
-**Tools Used**
-	•	SQL (SQLite)
-	•	Visual Studio Code
+### Tools Used
+- SQL (SQLite)
+- Visual Studio Code
 
-**Key Insights**
-	•	Technology is the top-performing category (~836K sales)
-	•	Top customer generated over 25K in sales
-	•	Regional performance varies significantly
-	•	High-value customers drive major revenue
+### Key Insights
+- Technology is the top-performing category (~836K sales)
+- Top customer generated over 25K in sales
+- Regional performance varies significantly
+- High-value customers drive major revenue
 
-Project Files
-	•	queries.sql → SQL queries
-	•	total_sales.png → Total sales result
-	•	total_profit.png → Total profit
-	•	sales_by_region.png → Region analysis
-	•	top_customers.png → Top 5 customers
-	•	category_analysis.png → Category performance
+### Project Files
+- queries.sql → SQL queries
+- sql_total_sales.png → Total sales result
+- sql_total_profit.png → Total profit
+- sql_sales_by_region.png → Region analysis
+- sql_top_customers.png → Top 5 customers
+- sql_category_analysis.png → Category performance
 
-  **Sample Output**
+### Sample Output
 
-  Below are sample outputs generated using SQL queries:
+![Total Sales](sql_total_sales.png)
+![Total Profit](sql_total_profit.png)
+![Sales by Region](sql_sales_by_region.png)
+![Top Customers](sql_top_customers.png)
+![Category Analysis](sql_category_analysis.png)
 
-![Top Customers](top_customers.png)
-![Sales by Region](sales_by_region.png)
-![Category Analysis](category_analysis.png)
-
-## Project 5. Sales Performance Dashboard (Power BI)
+## 5. Sales Performance Dashboard (Power BI)
 
 ### Overview  
 Built an interactive Power BI dashboard to analyze sales performance across regions, categories, and time.
@@ -100,7 +103,7 @@ Built an interactive Power BI dashboard to analyze sales performance across regi
 - Enables quick KPI monitoring  
 - Improves strategic planning using trends
 
-**Result:**Built an interactive dashboard for real-time business insights and KPI tracking.
+**Result:** Built an interactive dashboard for real-time business insights and KPI tracking.
 
 ### Dashboard Preview  
 ![Dashboard](powerbi_dashboard.png)
