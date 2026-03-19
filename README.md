@@ -6,7 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Analysis-green)
 
 This repository showcases end-to-end data analytics projects including data analysis, visualization, machine learning, SQL, and dashboarding using real-world datasets. 
-Focused on solving real-world business problems using data-driven insights and analytics.
+Focused on solving real-world business problems using data-driven insights, analytics and machine learning techniques.
 
 ---
 
@@ -42,8 +42,6 @@ Focused on solving real-world business problems using data-driven insights and a
 
 **Insight**: West and East regions contribute the highest revenue.
 
-![Dashboard](dashboard.png)
-
 ## 4. Superstore Sales Analysis (SQL Project)
 
 ### Overview
@@ -75,10 +73,11 @@ Analyzed retail sales dataset using SQL to extract key business insights includi
 ![Top Customers](sql_top_customers.png)
 ![Category Analysis](sql_category_analysis.png)
 
-## 5. Sales Performance Dashboard (Power BI)
+## 5. Executive Sales Dashboard (Power BI)
 
 ### Overview  
 Built an interactive Power BI dashboard to analyze sales performance across regions, categories, and time.
+Designed for executive-level decision-making with clear KPIs, trend analysis, and category performance insights.
 
 ### Tools Used  
 - Power BI  
@@ -106,7 +105,7 @@ Built an interactive Power BI dashboard to analyze sales performance across regi
 **Result:** Built an interactive dashboard for real-time business insights and KPI tracking.
 
 ### Dashboard Preview  
-![Dashboard](powerbi_dashboard.png)
+![Dashboard](dashboard_preview.png)
 
 ##  Dataset
 - Superstore dataset used for analysis
