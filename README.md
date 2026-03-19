@@ -12,6 +12,8 @@ This repository contains my data analytics projects using Python, Power BI, and 
 - Identified top customers, regions, and product categories
 - Visualized trends and generated business insights
 
+**Result:** Identified Technology as top-performing category, contributing highest revenue.
+
 Insight: Technology category generates highest sales, indicating strong demand in this segment.
 
 ![Sales Category](Sales_Category.png)
@@ -23,10 +25,14 @@ Insight: Technology category generates highest sales, indicating strong demand i
 - Used regression techniques
 - Evaluated model performance
 
+**Result:** Developed a regression model to forecast sales trends and support decision-making.
+
 ### 3️ Retail Sales Dashboard (Power BI)
 📂 [View Project](./Retail%20Sales%20Performance%20Dashboard.pbix)
 - Created interactive dashboard
 - Visualized KPIs, sales trends, and regional performance
+
+**Result:** Built an interactive dashboard enabling quick insights into regional and category performance.
 
 Insight: West and East regions contribute the highest revenue.
 
