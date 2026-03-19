@@ -69,6 +69,37 @@ Project Files
 ![Sales by Region](sales_by_region.png)
 ![Category Analysis](category_analysis.png)
 
+## Project 5: Sales Performance Dashboard (Power BI)
+
+### Overview  
+Built an interactive Power BI dashboard to analyze sales performance across regions, categories, and time.
+
+### Tools Used  
+- Power BI  
+- Excel (Superstore dataset)
+
+### Key Features  
+- KPI cards for Total Sales and Total Profit  
+- Sales trend over time  
+- Regional performance analysis  
+- Category-wise breakdown  
+- Interactive filters (Region, Category, Date)
+
+### Key Insights  
+- Technology is the top-performing category  
+- West and East regions generate highest revenue  
+- Sales show consistent growth over time  
+- High-value segments drive major revenue  
+
+### Business Impact
+- Helps management identify top-performing regions and categories  
+- Supports data-driven decision-making  
+- Enables quick KPI monitoring  
+- Improves strategic planning using trends
+
+### Dashboard Preview  
+![Dashboard](powerbi_dashboard.png)
+
 ##  Dataset
 - Superstore dataset used for analysis
 
