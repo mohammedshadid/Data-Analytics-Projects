@@ -33,7 +33,7 @@ Each project focuses on solving real-world business problems using data-driven i
 
 ### 3. Superstore Sales Analysis (SQL Project)
 
-### Overview
+#### Overview
 Analyzed retail sales dataset using SQL to extract key business insights including total sales, profit, customer performance, and category trends.
 
 ### Tools Used
