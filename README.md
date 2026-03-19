@@ -1,34 +1,38 @@
 #  Data Analytics Projects
 
-This repository contains my data analytics projects using Python, Power BI, and Machine Learning.
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-Analysis-green)
+
+This repository showcases end-to-end data analytics projects including data analysis, visualization, machine learning, SQL, and dashboarding using real-world datasets.
 
 ---
 
 ##  Projects Included
 
-### 1️ Customer Behavior Analysis
-📂 [View Project](./Customer_Behavior_Analysis_using_Python.ipynb)
+### 1. Customer Behavior Analysis
+📂 [View Code](./Customer_Behavior_Analysis_using_Python.ipynb)
 - Analyzed retail sales data using Python
 - Identified top customers, regions, and product categories
 - Visualized trends and generated business insights
 
 **Result:** Identified Technology as top-performing category, contributing highest revenue.
 
-Insight: Technology category generates highest sales, indicating strong demand in this segment.
+**Insight**: Technology category generates highest sales, indicating strong demand in this segment.
 
 ![Sales Category](Sales_Category.png)
 ![Sales Trend](monthly_sales_trend.png)
 
-### 2️ Sales Prediction Model
-📂 [View Project](./Sales_Prediction_Model.ipynb)
+### 2. Sales Prediction Model
+📂 [View Code](./Sales_Prediction_Model.ipynb)
 - Built a machine learning model to predict sales
 - Used regression techniques
 - Evaluated model performance
 
 **Result:** Developed a regression model to forecast sales trends and support decision-making.
 
-### 3️ Retail Sales Dashboard (Power BI)
-📂 [View Project](./Retail%20Sales%20Performance%20Dashboard.pbix)
+### 3. Retail Sales Dashboard (Power BI)
+📂 [View Code](./Retail%20Sales%20Performance%20Dashboard.pbix)
 - Created interactive dashboard
 - Visualized KPIs, sales trends, and regional performance
 
@@ -38,16 +42,15 @@ Insight: West and East regions contribute the highest revenue.
 
 ![Dashboard](dashboard.png)
 
-## 4️ Superstore Sales Analysis (SQL Project)
-
-Overview
+## 4. Superstore Sales Analysis (SQL Project)
+**Overview**
 Analyzed retail sales dataset using SQL to extract key business insights including total sales, profit, customer performance, and category trends.
 
-Tools Used
+**Tools Used**
 	•	SQL (SQLite)
 	•	Visual Studio Code
 
-Key Insights
+**Key Insights**
 	•	Technology is the top-performing category (~836K sales)
 	•	Top customer generated over 25K in sales
 	•	Regional performance varies significantly
@@ -69,7 +72,7 @@ Project Files
 ![Sales by Region](sales_by_region.png)
 ![Category Analysis](category_analysis.png)
 
-## Project 5: Sales Performance Dashboard (Power BI)
+## Project 5. Sales Performance Dashboard (Power BI)
 
 ### Overview  
 Built an interactive Power BI dashboard to analyze sales performance across regions, categories, and time.
@@ -97,6 +100,8 @@ Built an interactive Power BI dashboard to analyze sales performance across regi
 - Enables quick KPI monitoring  
 - Improves strategic planning using trends
 
+**Result:**Built an interactive dashboard for real-time business insights and KPI tracking.
+
 ### Dashboard Preview  
 ![Dashboard](powerbi_dashboard.png)
 
@@ -107,6 +112,7 @@ Built an interactive Power BI dashboard to analyze sales performance across regi
 
 ##  Skills Used
 - Python (Pandas, Matplotlib)
+- SQL
 - Data Analysis
 - Machine Learning
 - Power BI
