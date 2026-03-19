@@ -31,7 +31,7 @@ Each project focuses on solving real-world business problems using data-driven i
 
 **Result:** Developed a regression model to forecast sales trends and support decision-making.
 
-## 3. Superstore Sales Analysis (SQL Project)
+### 3. Superstore Sales Analysis (SQL Project)
 
 ### Overview
 Analyzed retail sales dataset using SQL to extract key business insights including total sales, profit, customer performance, and category trends.
@@ -46,14 +46,6 @@ Analyzed retail sales dataset using SQL to extract key business insights includi
 - Regional performance varies significantly
 - High-value customers drive major revenue
 
-### Project Files
-- queries.sql → SQL queries
-- sql_total_sales.png → Total sales result
-- sql_total_profit.png → Total profit
-- sql_sales_by_region.png → Region analysis
-- sql_top_customers.png → Top 5 customers
-- sql_category_analysis.png → Category performance
-
 ### Sample Output
 
 ![Total Sales](sql_total_sales.png)
@@ -62,7 +54,7 @@ Analyzed retail sales dataset using SQL to extract key business insights includi
 ![Top Customers](sql_top_customers.png)
 ![Category Analysis](sql_category_analysis.png)
 
-## 4. Executive Sales Dashboard (Power BI)
+### 4. Executive Sales Dashboard (Power BI)
 
 ### Overview  
 Built an interactive Power BI dashboard to analyze sales performance across regions, categories, and time.
