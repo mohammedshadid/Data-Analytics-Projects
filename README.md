@@ -7,6 +7,7 @@ This repository contains my data analytics projects using Python, Power BI, and 
 ##  Projects Included
 
 ### 1️ Customer Behavior Analysis
+📂 [View Project](./Customer_Behavior_Analysis_using_Python.ipynb)
 - Analyzed retail sales data using Python
 - Identified top customers, regions, and product categories
 - Visualized trends and generated business insights
@@ -17,11 +18,13 @@ Insight: Technology category generates highest sales, indicating strong demand i
 ![Sales Trend](monthly_sales_trend.png)
 
 ### 2️ Sales Prediction Model
+📂 [View Project](./Sales_Prediction_Model.ipynb)
 - Built a machine learning model to predict sales
 - Used regression techniques
 - Evaluated model performance
 
 ### 3️ Retail Sales Dashboard (Power BI)
+📂 [View Project](./Retail%20Sales%20Performance%20Dashboard.pbix)
 - Created interactive dashboard
 - Visualized KPIs, sales trends, and regional performance
 
